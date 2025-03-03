@@ -33,11 +33,21 @@ git clone https://github.com/Ashutosh-88/color-picker-app
 cd color-picker-app
 ```
 
-3. Open the `index.html` file in your web browser.
+3. Install Dependencies (Required for React apps):
+
+```sh
+npm install
+```
+
+4. Start the Development Server
+
+```sh
+npm run dev
+```
 
 ### Executing Program
 
-1. To open the app, simply open the `index.html` file in your browser.
+1. To open the app, simply open the provided local URL (ex. `http://localhost:5173/`).
 2. Click the button to change color. (located below Select a Color)
 3. Selected Color is then displayed with its hex value.
 
