@@ -12,8 +12,6 @@ This is a simple Color picker made using React.js.
 
 ### Dependencies
 
-### Dependencies
-
 - **Node.js** (Recommended: Latest LTS version)
 - **npm** or **yarn** (Comes with Node.js)
 - **React** (Automatically installed via `create-react-app`, Vite, or Next.js)
@@ -26,13 +24,13 @@ This is a simple Color picker made using React.js.
 1. Clone or download the repository to your local machine:
 
 ```sh
-git clone https://github.com/Ashutosh-88/-Color-Picker-App
+git clone https://github.com/Ashutosh-88/color-picker-app
 ```
 
 2. Navigate to the project folder in your terminal:
 
 ```sh
-cd -Color-Picker-App
+cd color-picker-app
 ```
 
 3. Open the `index.html` file in your web browser.
@@ -61,13 +59,13 @@ If you encounter any issues, try the following troubleshooting steps:
 
 ### 3. Restart the development server
 
-If you are running a React app locally, try restarting the development server:
+- If you are running a React app locally, try restarting the development server:
 
 ```sh
 npm start
 ```
 
-If using Vite, use:
+- If using Vite, use:
 
 ```sh
 npm run dev
@@ -75,14 +73,14 @@ npm run dev
 
 ### 4. Check dependencies
 
-Make sure Node.js and npm are installed by running:
+- Make sure Node.js and npm are installed by running:
 
 ```sh
 node -v
 npm -v
 ```
 
-If the issue persists, try reinstalling dependencies:
+- If the issue persists, try reinstalling dependencies:
 
 ```sh
 rm -rf node_modules package-lock.json
@@ -107,7 +105,3 @@ npm install
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE.md file for details.
-
-```
-
-```
